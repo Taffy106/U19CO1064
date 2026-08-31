@@ -1,0 +1,49 @@
+{
+  "person": {
+    "id": "person-001",
+    "name": "[YOUR FULL NAME]",
+    "title": "Future Computer Engineer",
+    "university": "[YOUR UNIVERSITY]",
+    "department": "[YOUR DEPARTMENT]",
+    "email": "[YOUR EMAIL]",
+    "phone": "[YOUR PHONE]",
+    "location": "[YOUR LOCATION]",
+    "profile_image": "assets/images/profile-placeholder.svg"
+  },
+  "education": [
+    {
+      "id": "edu-001",
+      "qualification": "[DEGREE / PROGRAMME]",
+      "institution": "[UNIVERSITY / INSTITUTION]",
+      "start_year": "[YEAR]",
+      "end_year": "[YEAR OR PRESENT]",
+      "description": "[DESCRIPTION]"
+    }
+  ],
+  "skills": [
+    {"id": "skill-001", "name": "HTML5", "category": "Web", "level": "[LEVEL]"},
+    {"id": "skill-002", "name": "CSS3", "category": "Web", "level": "[LEVEL]"},
+    {"id": "skill-003", "name": "[PROGRAMMING LANGUAGE]", "category": "Programming", "level": "[LEVEL]"},
+    {"id": "skill-004", "name": "[ENGINEERING SKILL]", "category": "Engineering", "level": "[LEVEL]"}
+  ],
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "[PROJECT ONE]",
+      "date": "[DATE]",
+      "category": "[CATEGORY]",
+      "description": "[PROJECT DESCRIPTION]",
+      "technologies": ["[TECHNOLOGY 1]", "[TECHNOLOGY 2]"],
+      "image_url": "assets/images/project-1-placeholder.svg"
+    },
+    {
+      "id": "project-002",
+      "title": "[PROJECT TWO]",
+      "date": "[DATE]",
+      "category": "[CATEGORY]",
+      "description": "[PROJECT DESCRIPTION]",
+      "technologies": ["[TECHNOLOGY 1]", "[TECHNOLOGY 2]"],
+      "image_url": "assets/images/project-2-placeholder.svg"
+    }
+  ]
+}
